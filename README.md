@@ -33,8 +33,6 @@ _(Specify dataset name, e.g., PlantVillage, Kaggle leaf disease dataset, etc.)_
    - Optimizer: **AdamW**  
    - Evaluation Metrics: **Accuracy, Precision, Recall, F1-score**  
 
-4️⃣ **Deployment**  
-   - Flask-based web app / Streamlit interface for real-time predictions.  
 
 ---
 
@@ -42,12 +40,13 @@ _(Specify dataset name, e.g., PlantVillage, Kaggle leaf disease dataset, etc.)_
 - **Deep Learning:** Swin Transformers, PyTorch/TensorFlow  
 - **Data Processing:** OpenCV, NumPy, Pandas  
 - **Visualization:** Matplotlib, Seaborn  
-- **Deployment:** Flask/FastAPI, Streamlit (optional)  
+
 
 ---
 
 ## 📊 Results & Performance  
-_(Include accuracy scores, confusion matrix, or sample results)_  
+![image](https://github.com/user-attachments/assets/99bf6d14-7714-4b64-bbf5-44f6989031da)
+
 
 ---
 
